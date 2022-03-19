@@ -1,0 +1,1 @@
+# Gym-static-page
